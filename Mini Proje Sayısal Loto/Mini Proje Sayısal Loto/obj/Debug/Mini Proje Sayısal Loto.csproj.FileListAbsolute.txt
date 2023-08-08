@@ -1,0 +1,11 @@
+C:\Users\ozfes\OneDrive\Masaüstü\Udemy\Mini Proje Sayısal Loto\Mini Proje Sayısal Loto\bin\Debug\Mini Proje Sayısal Loto.exe.config
+C:\Users\ozfes\OneDrive\Masaüstü\Udemy\Mini Proje Sayısal Loto\Mini Proje Sayısal Loto\bin\Debug\Mini Proje Sayısal Loto.exe
+C:\Users\ozfes\OneDrive\Masaüstü\Udemy\Mini Proje Sayısal Loto\Mini Proje Sayısal Loto\bin\Debug\Mini Proje Sayısal Loto.pdb
+C:\Users\ozfes\OneDrive\Masaüstü\Udemy\Mini Proje Sayısal Loto\Mini Proje Sayısal Loto\obj\Debug\Mini Proje Sayısal Loto.csproj.AssemblyReference.cache
+C:\Users\ozfes\OneDrive\Masaüstü\Udemy\Mini Proje Sayısal Loto\Mini Proje Sayısal Loto\obj\Debug\Mini Proje Sayısal Loto.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozfes\OneDrive\Masaüstü\Udemy\Mini Proje Sayısal Loto\Mini Proje Sayısal Loto\obj\Debug\Mini_Proje_Sayısal_Loto.Properties.Resources.resources
+C:\Users\ozfes\OneDrive\Masaüstü\Udemy\Mini Proje Sayısal Loto\Mini Proje Sayısal Loto\obj\Debug\Mini Proje Sayısal Loto.csproj.GenerateResource.cache
+C:\Users\ozfes\OneDrive\Masaüstü\Udemy\Mini Proje Sayısal Loto\Mini Proje Sayısal Loto\obj\Debug\Mini Proje Sayısal Loto.csproj.CoreCompileInputs.cache
+C:\Users\ozfes\OneDrive\Masaüstü\Udemy\Mini Proje Sayısal Loto\Mini Proje Sayısal Loto\obj\Debug\Mini Proje Sayısal Loto.exe
+C:\Users\ozfes\OneDrive\Masaüstü\Udemy\Mini Proje Sayısal Loto\Mini Proje Sayısal Loto\obj\Debug\Mini Proje Sayısal Loto.pdb
+C:\Users\ozfes\OneDrive\Masaüstü\Udemy\Mini Proje Sayısal Loto\Mini Proje Sayısal Loto\obj\Debug\Mini_Proje_Sayısal_Loto.Form1.resources
